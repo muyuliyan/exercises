@@ -5,13 +5,9 @@
 void swap(int *a,int *b)
 {
 	int c = 0;
-	if (*a > *b)
-	{
-		c=*b;
-		*b = *a;
-		*a = c;
-	}
-
+	c=*a;
+	*a = *b;
+	*b = c;
 }
 int main()
 {
@@ -24,11 +20,12 @@ int main()
 	int arr[] = { x,y,z };// 定义数组
 	int n = sizeof(arr)/sizeof(arr[0]);// 计算字符长度
 
-	for(int i=0;i<3;i++)
+	
+	for(int i=0;i<2;i++)
 	{
 		for (int j = 0; j < n-1-i; j++)
 		{
-			if (arr[j] > arr[j + 1])
+			if (arr[j] < arr[j + 1])
 			{
 				swap(&arr[j], &arr[j + 1]);
 			}
@@ -36,5 +33,5 @@ int main()
 	}
 
 	// 输出结果
-	printf("The sorting result of this data is: %d %d %d\n ",arr[2],arr[1],arr[0]);
+	printf("The sorting result of this data is: %d %d %d\n ",arr[0],arr[1],arr[2]);
 }

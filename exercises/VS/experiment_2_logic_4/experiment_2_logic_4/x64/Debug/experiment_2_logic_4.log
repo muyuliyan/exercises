@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\Cproject\exercises\experiment_2_logic_4\experiment_2_logic_4\源.cpp(17,28): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  experiment_2_logic_4.vcxproj -> D:\Cproject\exercises\experiment_2_logic_4\x64\Debug\experiment_2_logic_4.exe

@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\Cproject\exercises\VS\experiment_2_loop_2\experiment_2_loop_2\源.cpp(22,29): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  experiment_2_loop_2.vcxproj -> D:\Cproject\exercises\VS\experiment_2_loop_2\x64\Debug\experiment_2_loop_2.exe
