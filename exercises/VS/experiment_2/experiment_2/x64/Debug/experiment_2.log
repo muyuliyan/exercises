@@ -1,2 +1,5 @@
-﻿源1_1.obj : error LNK2005: main 已经在 源.obj 中定义
-D:\Cproject\exercises\experiment_2\x64\Debug\experiment_logic_2.exe : fatal error LNK1169: 找到一个或多个多重定义的符号
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(experiment_logic_2.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  源.cpp
+D:\Cproject\exercises\VS\experiment_2\experiment_2\源.cpp(13,34): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Cproject\exercises\VS\experiment_2\experiment_2\源.cpp(14,31): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  experiment_2.vcxproj -> D:\Cproject\exercises\VS\experiment_2\x64\Debug\experiment_logic_1.exe

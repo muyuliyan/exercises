@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Cproject\\exercises\\experiment_2_logic2\\",
+  "WorkspaceRootPath": "D:\\Cproject\\exercises\\VS\\experiment_2_logic2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C79E31A0-D51C-4DAC-BF98-4F59F143C272}|experiment_2_logic2\\experiment_2_logic2.vcxproj|D:\\Cproject\\exercises\\experiment_2_logic2\\experiment_2_logic2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{C79E31A0-D51C-4DAC-BF98-4F59F143C272}|experiment_2_logic2\\experiment_2_logic2.vcxproj|D:\\Cproject\\exercises\\VS\\experiment_2_logic2\\experiment_2_logic2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{C79E31A0-D51C-4DAC-BF98-4F59F143C272}|experiment_2_logic2\\experiment_2_logic2.vcxproj|solutionrelative:experiment_2_logic2\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,28 +14,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u6E90.cpp",
-              "DocumentMoniker": "D:\\Cproject\\exercises\\experiment_2_logic2\\experiment_2_logic2\\\u6E90.cpp",
+              "DocumentMoniker": "D:\\Cproject\\exercises\\VS\\experiment_2_logic2\\experiment_2_logic2\\\u6E90.cpp",
               "RelativeDocumentMoniker": "experiment_2_logic2\\\u6E90.cpp",
-              "ToolTip": "D:\\Cproject\\exercises\\experiment_2_logic2\\experiment_2_logic2\\\u6E90.cpp",
+              "ToolTip": "D:\\Cproject\\exercises\\VS\\experiment_2_logic2\\experiment_2_logic2\\\u6E90.cpp",
               "RelativeToolTip": "experiment_2_logic2\\\u6E90.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-10-28T07:30:07.513Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

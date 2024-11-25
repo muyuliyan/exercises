@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Cproject\\exercises\\experiment_2_logic_4\\",
+  "WorkspaceRootPath": "D:\\Cproject\\exercises\\VS\\experiment_2_logic_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AD97BC0-FEBB-4CE3-A1E1-E0E3385DA5D8}|experiment_2_logic_4\\experiment_2_logic_4.vcxproj|D:\\Cproject\\exercises\\experiment_2_logic_4\\experiment_2_logic_4\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8AD97BC0-FEBB-4CE3-A1E1-E0E3385DA5D8}|experiment_2_logic_4\\experiment_2_logic_4.vcxproj|D:\\Cproject\\exercises\\VS\\experiment_2_logic_4\\experiment_2_logic_4\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8AD97BC0-FEBB-4CE3-A1E1-E0E3385DA5D8}|experiment_2_logic_4\\experiment_2_logic_4.vcxproj|solutionrelative:experiment_2_logic_4\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "\u6E90.cpp",
-              "DocumentMoniker": "D:\\Cproject\\exercises\\experiment_2_logic_4\\experiment_2_logic_4\\\u6E90.cpp",
+              "DocumentMoniker": "D:\\Cproject\\exercises\\VS\\experiment_2_logic_4\\experiment_2_logic_4\\\u6E90.cpp",
               "RelativeDocumentMoniker": "experiment_2_logic_4\\\u6E90.cpp",
-              "ToolTip": "D:\\Cproject\\exercises\\experiment_2_logic_4\\experiment_2_logic_4\\\u6E90.cpp",
+              "ToolTip": "D:\\Cproject\\exercises\\VS\\experiment_2_logic_4\\experiment_2_logic_4\\\u6E90.cpp",
               "RelativeToolTip": "experiment_2_logic_4\\\u6E90.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-04T06:39:25.844Z",
               "EditorCaption": ""
