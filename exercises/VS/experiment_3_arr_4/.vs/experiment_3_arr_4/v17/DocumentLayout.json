@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{de1fc918-f32e-4dd7-a915-1792a051f26b}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -36,7 +32,7 @@
               "RelativeDocumentMoniker": "experiment_3_arr_4\\\u6E90.cpp",
               "ToolTip": "D:\\Cproject\\exercises\\VS\\experiment_3_arr_4\\experiment_3_arr_4\\\u6E90.cpp",
               "RelativeToolTip": "experiment_3_arr_4\\\u6E90.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADkAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-25T07:53:08.66Z",
               "EditorCaption": ""

@@ -38,7 +38,7 @@ int main()
         }
     }
     // 打印最大值和最小值及其下标
-    printf("The max number is: %d at index %d\n", Max, MaxIndex);
-    printf("The min number is: %d at index %d\n", Min, MinIndex);
+    printf("The max number is: %d at location %d\n", Max, MaxIndex + 1);
+    printf("The min number is: %d at location %d\n", Min, MinIndex + 1);
     return 0;
 }

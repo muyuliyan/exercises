@@ -1,0 +1,3 @@
+﻿  源.cpp
+D:\Cproject\exercises\VS\experiment_3_arr_4_3\experiment_3_arr_4_3\源.cpp(7,17): warning C4101: “mid”: 未引用的局部变量
+  experiment_3_arr_4_3.vcxproj -> D:\Cproject\exercises\VS\experiment_3_arr_4_3\x64\Debug\experiment_3_arr_4_3.exe

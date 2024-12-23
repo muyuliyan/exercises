@@ -12,7 +12,7 @@ int main()
 
 
 	//输入行数
-	while (1)
+	for(;;)
 	{
 		printf("请输入一个2到10之间的整数：");
 		scanf("%d", &row);
@@ -53,39 +53,37 @@ int main()
 	max_row = 0;
 	min_row = 0;
 
-
-
 	//查找最大值
 	for (int i = 0; i < row; i++)
 	{
 		for (int j = 0; j < row; j++)
 		{
-			if (a[i][j] == max)
-			{
-				printf("存在多个相同数字，最后输出的元素和行数可能只是最后一个最大元素与其行数。\n如果有问题，请调整您的输入元素。\n");
-			}
 			if (a[i][j] > max)
 			{
 				max = a[i][j];
 				max_row = i;
+			}
+			else if (a[i][j] == max && (a[i][j]!=a[0][0]))
+			{
+				printf("存在多个相同数字，最后输出的元素和行数可能只是最后一个最大元素与其行数。\n如果有问题，请调整您的输入元素。\n");
 			}
 		}
 	}
 	printf("最大的元素是：%d,它在第%d行。\n", max, max_row);
 
 	//查找最小值
-	for (int i = 0; i < row; i++)
+	for (int i = 1; i < row; i++)
 	{
-		for (int j = 0; j < row; j++)
+		for (int j = 1; j < row; j++)
 		{
-			if (a[i][j] == max)
-			{
-				printf("存在多个相同数字，最后输出的元素和行数可能只是最后一个最小元素与其行数。\n如果有问题，请调整您的输入元素。\n");
-			}
 			if (a[i][j] < min)
 			{
 				min = a[i][j];
 				min_row = i;
+			}
+			else if (a[i][j] == min && (a[i][j] != a[0][0]))
+			{
+				printf("存在多个相同数字，最后输出的元素和行数可能只是最后一个最小元素与其行数。\n如果有问题，请调整您的输入元素。\n");
 			}
 		}
 	}
