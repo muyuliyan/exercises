@@ -15,8 +15,8 @@
 //
 //void sort_print(int* a, int* b, int* c) {
 //	comp(a ,b);
-//	comp(b, c);
 //	comp(a, c);
+//	comp(b, c);
 //	
 //  printf("This is the sorted value:\n");
 //	printf("%d %d %d", *a, *b, *c);
@@ -50,9 +50,9 @@
 //}
 //
 //void sort_print(char* a, char* b, char* c) {
-//    comp(a, b);
-//    comp(b, c);
-//    comp(a, c);
+//	  comp(a ,b);
+//	  comp(a, c);
+//	  comp(b, c);
 //
 //    printf("This is the sorted characters:\n");
 //    printf("%c %c %c", *a, *b, *c);
@@ -85,9 +85,9 @@ void comp(char** m, char** n) {
 void sort_print(char* a, char* b, char* c) {
     char* arr[3] = { a, b, c };
     comp(&arr[0], &arr[1]);
-    comp(&arr[1], &arr[2]);
     comp(&arr[0], &arr[1]);
-
+    comp(&arr[1], &arr[2]);
+    
     printf("This is the sorted strings:\n");
     printf("%s %s %s", arr[0], arr[1], arr[2]);
     printf("\n");

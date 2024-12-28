@@ -15,6 +15,7 @@ void newcopy(char* ol, char* ne) {
 
 void print(char* ne) {
     int i = 0;
+    printf("This is the new string:\n");
     while (ne[i] != '\0') {
         printf("%c", ne[i]); // 打印字符，而不是字符的ASCII值
         i++;
