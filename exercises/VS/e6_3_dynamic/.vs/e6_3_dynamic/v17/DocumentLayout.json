@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Cproject\\exercises\\VS\\e6_3_dynamic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BA7F2C6-60B9-4FDB-9AA1-50C1FDDC75F2}|e6_3_dynamic\\e6_3_dynamic.vcxproj|D:\\Cproject\\exercises\\VS\\e6_3_dynamic\\e6_3_dynamic\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9BA7F2C6-60B9-4FDB-9AA1-50C1FDDC75F2}|e6_3_dynamic\\e6_3_dynamic.vcxproj|solutionrelative:e6_3_dynamic\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6E90.cpp",
+              "DocumentMoniker": "D:\\Cproject\\exercises\\VS\\e6_3_dynamic\\e6_3_dynamic\\\u6E90.cpp",
+              "RelativeDocumentMoniker": "e6_3_dynamic\\\u6E90.cpp",
+              "ToolTip": "D:\\Cproject\\exercises\\VS\\e6_3_dynamic\\e6_3_dynamic\\\u6E90.cpp",
+              "RelativeToolTip": "e6_3_dynamic\\\u6E90.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-29T07:25:24.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
