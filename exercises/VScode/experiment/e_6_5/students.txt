@@ -1,0 +1,5 @@
+			birthday
+num	name	year	month	day
+1020	张丽  	1995	12	21
+1022	李林  	1996	10	 1
+1026	王一  	1998	 5	16

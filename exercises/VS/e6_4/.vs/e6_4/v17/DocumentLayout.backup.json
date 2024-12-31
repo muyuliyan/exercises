@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "D:\\Cproject\\exercises\\VS\\e6_4\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{807E4A75-7D25-4036-9803-26E57E307CD2}|e6_4\\e6_4.vcxproj|C:\\PROGRAM FILES (X86)\\WINDOWS KITS\\10\\INCLUDE\\10.0.22621.0\\UCRT\\CORECRT_WCTYPE.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{807E4A75-7D25-4036-9803-26E57E307CD2}|e6_4\\e6_4.vcxproj|D:\\Cproject\\exercises\\VS\\e6_4\\e6_4\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{807E4A75-7D25-4036-9803-26E57E307CD2}|e6_4\\e6_4.vcxproj|solutionrelative:e6_4\\\u6E90.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -26,23 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "corecrt_wctype.h",
-              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wctype.h",
-              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\corecrt_wctype.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-30T06:43:00.625Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "\u6E90.cpp",
               "DocumentMoniker": "D:\\Cproject\\exercises\\VS\\e6_4\\e6_4\\\u6E90.cpp",
               "RelativeDocumentMoniker": "e6_4\\\u6E90.cpp",
               "ToolTip": "D:\\Cproject\\exercises\\VS\\e6_4\\e6_4\\\u6E90.cpp",
               "RelativeToolTip": "e6_4\\\u6E90.cpp",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-29T15:02:28.233Z",
               "EditorCaption": ""
